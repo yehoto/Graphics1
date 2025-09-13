@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anna\\Desktop\\kg_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|c:\\users\\anna\\desktop\\kg_lab1\\kg_lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|c:\\users\\anna\\desktop\\kg_lab1\\kg_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|c:\\users\\anna\\desktop\\kg_lab1\\kg_lab1\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E09C8A7D-B456-4260-ACFF-3361D8B78C4D}|kg_lab1\\kg_lab1.csproj|solutionrelative:kg_lab1\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\Program.cs",
+              "RelativeDocumentMoniker": "kg_lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\Program.cs",
+              "RelativeToolTip": "kg_lab1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:35:36.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.resx",
+              "RelativeDocumentMoniker": "kg_lab1\\MainForm.resx",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.resx",
+              "RelativeToolTip": "kg_lab1\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-13T19:34:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "kg_lab1\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.Designer.cs",
+              "RelativeToolTip": "kg_lab1\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:14:23.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.cs",
+              "RelativeDocumentMoniker": "kg_lab1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kg_lab1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:27:19.514Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.cs",
+              "RelativeDocumentMoniker": "kg_lab1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\MainForm.cs",
+              "RelativeToolTip": "kg_lab1\\MainForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:27:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\App.config",
+              "RelativeDocumentMoniker": "kg_lab1\\App.config",
+              "ToolTip": "C:\\Users\\Anna\\Desktop\\kg_lab1\\kg_lab1\\App.config",
+              "RelativeToolTip": "kg_lab1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-13T16:14:54.688Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
